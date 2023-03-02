@@ -1,2 +1,2 @@
-# aiocache safe UUID YAML Serializer
-aiocache safe UUID YAML serializer
+# aiocache YAML safe Serializer for UUID
+aiocache YAML safe Serializer for UUID
